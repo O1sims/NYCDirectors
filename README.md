@@ -2,7 +2,7 @@
 
 ## 1 About
 
-This directory contains a TeX file which, when compiled into a PDF, forms the paper **Directorate Connectedness and Firm Performance: The Case of New York City, 1902-1912**. The paper investigates the connectedness of corporate directors in New York City and their firms' performance.
+This directory contains a TeX file which, when compiled into a PDF, forms the paper **Directorate Connectedness and Firm Performance: The Case of New York City, 1902-1912**. The paper investigates the connectedness of corporate directors in New York City and their firms' performance. The full paper can be found in [`NYCDirectors.pdf`](./NYCDirectors.pdf).
 
 ### 1.1 Abstract
 
