@@ -1,8 +1,8 @@
-# Directorate Connectedness and Firm Performance: The Case of New York City, 1902--1912
+# Directorate Connectedness and Firm Performance: The Case of New York City, 1902-1912
 
 ## 1 About
 
-This directory contains a TeX file which, when compiled into a PDF, forms the paper **Directorate Connectedness and Firm Performance: The Case of New York City, 1902--1912**. The paper investigates the connectedness of corporate directors in New York City and their firms' performance.
+This directory contains a TeX file which, when compiled into a PDF, forms the paper **Directorate Connectedness and Firm Performance: The Case of New York City, 1902-1912**. The paper investigates the connectedness of corporate directors in New York City and their firms' performance.
 
 ### 1.1 Abstract
 
@@ -14,11 +14,11 @@ This article uses network theory to investigate the topological structure of the
 
 The sources of data used in the article are referenced in the paper. In short:
 
-- The directorate network was constructed from the New York City Directory of Directors, which were published each year from 1902 to 1912.
+- The directorate network was constructed from the New York City Directory of Directors, published annually from 1902 to 1912.
 - Firm valuation was collected from the [New York Times TimesMachine](https://timesmachine.nytimes.com/browser).
-- Bank valuation was collected from the Annual Report of the Superintendent of Banks for each year between 1902 to 1912.
-- Supplementary data on the assets and liabilities of financial institutions was collected from the Annual Report of the
-Comptroller of the Currency for each year between 1902 to 1912.
+- Bank valuation was collected from the [Annual Report of the Superintendent of Banks](https://catalog.hathitrust.org/Record/008697578) for each year between 1902 to 1912.
+- Supplementary data on the assets and liabilities of financial institutions was collected from the [Annual Report of the
+Comptroller of the Currency](https://fraser.stlouisfed.org/title/56#section-1900) for each year between 1902 to 1912.
 
 ## 2 Compiling the article
 
