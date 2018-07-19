@@ -77,6 +77,21 @@
 
 \maketitle
 
+\begin{singlespace}
+	\begin{abstract}
+		\noindent
+		We project a dataset of New York City directors from 1902--1912 as a network of social relations and firm interlocks. This network is coupled with firm performance metrics to investigate whether a more connected directorate enjoys an improved robustness to economic shocks and better profitability.
+	\end{abstract}
+	
+	\bigskip\noindent
+	\textbf{Keywords:} Network centrality; Corporate directors.
+	
+\end{singlespace}
+
+\thispagestyle{empty}
+
+\newpage
+
 \setcounter{page}{1} \pagenumbering{arabic}
 
 \section{Introduction}
@@ -185,7 +200,7 @@ In comparison to the directorate network of all firms in Victorian Britain durin
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=0.38]{images/Institutions.png}
+		\includegraphics[scale=0.38]{images/institutions.png}
 	\end{center}
 	\caption[Firm projection of the directorate network in New York City, 1902]{Firm projection of the directorate network in New York City, 1902. Blue nodes represent financial institutions, red nodes represent railways, and purple nodes represent insurance companies. The size of each node refers to its book value.}
 	\label{1902firms}
@@ -205,7 +220,7 @@ Microscopic network analysis focuses on the centrality of nodes. We provide an o
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=0.38]{images/guarantryBipartite.png}
+		\includegraphics[scale=0.38]{images/guarantry-bipartite.png}
 	\end{center}
 	\caption[Overlapping directorate of the Guaranty Trust Company, 1902]{Overlapping directorate of the Guaranty Trust Company, 1902. Different colours of nodes represent different types of firm. The grey node separated from the circle is the Guaranty Trust Company itself.}
 	\label{guarantryBipartite}
@@ -265,7 +280,7 @@ Elites refer to nodes that exist in all aspects of an aspectual hypergraph. With
 
 \begin{figure}[t]
 	\begin{center}
-		\includegraphics[scale=0.38]{images/Elite.png}
+		\includegraphics[scale=0.38]{images/elites.png}
 	\end{center}
 	\caption[Elite directors in New York City, 1902]{Elite directors in New York City. The larger the node the greater the directors influence. The colour of the node represents the community it is a member of according to Newman's Q.}
 	\label{Fig:elite}
@@ -423,7 +438,7 @@ Before the regression analysis we provide a comparison of financial institutions
 
 \begin{figure}[t]
 	\centering
-	\includegraphics[width=0.7\textwidth]{images/firm-type2.png}
+	\includegraphics[width=0.7\textwidth]{images/firm-value-industry.png}
 	\caption{Distribution of firm value per industry}
 	\label{firm-type1}
 \end{figure}
